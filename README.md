@@ -5,11 +5,10 @@
 - Ao meu ver o material é sim muito rico, mas que faltou didática pelo instrutor, onde o mesmo apenas cria classes, funções... atrás uma das outras... sem dar oportunidade de entendimento de toda a estrutura. Por que todos os elementos ou boa parte deles possuem suas funcionalidades, dependência para com outros elementos... seja como parâmetro, retorno, em fim... E nada é dito ou definido para um bom entendimento de todos os “elementos”.
 
 - Contudo como já integrado numa metodologia ativa irei em busca de um entendimento melhor. Onde eu consiga utilizar todos os recursos aqui citados fortalecendo assim a minha base de conhecimento.
-Grato!
 
 - O projeto em nada foi alterado, apenas utilizei o mesmo para estudos e novos conhecimentos.
 
-
+Grato!
 
 ## Dados do Autor Original
 
